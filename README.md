@@ -2,6 +2,8 @@
 
 KAIST EE204B 전자기학I 2021-2 과제
 
+20210604 정현우 작성
+
 n*n 사이즈의 'E' 모양 charge distribution을 만들고, charge로부터 발생하는 electric field를 계산하여 plotting하는 과제
 
 a) n=20, n=5, n=100에 대해 tile 만들고 plot
